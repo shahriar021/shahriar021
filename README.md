@@ -2,6 +2,7 @@
 
 ### Hi there 👋, I'm Shahriar
 #### App developer
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/rock-coding-programming-MdA16VIoXKKxNE8Stk">
 
 
 
