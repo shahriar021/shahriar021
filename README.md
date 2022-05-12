@@ -8,7 +8,7 @@
 
 Skills:  JS / HTML / CSS/ java/c/c++/python/
 
-###- 🌱 I’m currently learning Game developing 
+### 🌱 I’m currently learning Game developing 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about App development 
 
