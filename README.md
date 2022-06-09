@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Shahriar
 ### App & Web developer
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif">
+<img align="right" alt="Coding" width="60%" src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif">
 
 
 
@@ -10,7 +10,7 @@ Skills:  JS / HTML / CSS/ java/c/c++/python/
 
 ### 🌱 I’m currently learning Game developing 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about App development 
+- 💬 Ask me about App and Web development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahriar021)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/shahriar.chowdhury.12/)  
