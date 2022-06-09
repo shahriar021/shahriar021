@@ -1,12 +1,12 @@
 ![App developer](https://scontent.fdac11-1.fna.fbcdn.net/v/t31.18172-8/18700622_1930411763862300_128154192675910744_o.jpg?_nc_cat=111&ccb=1-6&_nc_sid=e3f864&_nc_ohc=pm2-9nxxipwAX8LCHFe&_nc_ht=scontent.fdac11-1.fna&oh=00_AT8CGVxs4aknfkBG-vm6cjd5EHhHVVjD1E2gaNq_Hi4Byg&oe=62A05503)
 
-### Hi there 👋, I'm Shahriar
-### App & Web developer
-<img align="right" alt="Coding" width="60%" src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif">
+# Hi there 👋, I'm Shahriar
+# App & Web developer
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif">
 
 
 
-Skills:  JS / HTML / CSS/ java/c/c++/python/
+##Skills: Mobile App development / Web Development / Photoshop
 
 ### 🌱 I’m currently learning Game developing 
 - 👯 I’m looking to collaborate on Github 
