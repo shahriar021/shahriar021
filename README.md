@@ -6,7 +6,7 @@
 
 
 
-##Skills: Mobile App development / Web Development / Photoshop
+# Skills: Mobile App development / Web Development / Photoshop
 
 ### 🌱 I’m currently learning Game developing 
 - 👯 I’m looking to collaborate on Github 
