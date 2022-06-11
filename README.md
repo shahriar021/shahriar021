@@ -1,4 +1,4 @@
-![App developer](https://scontent.fdac11-1.fna.fbcdn.net/v/t31.18172-8/18700622_1930411763862300_128154192675910744_o.jpg?_nc_cat=111&ccb=1-6&_nc_sid=e3f864&_nc_ohc=pm2-9nxxipwAX8LCHFe&_nc_ht=scontent.fdac11-1.fna&oh=00_AT8CGVxs4aknfkBG-vm6cjd5EHhHVVjD1E2gaNq_Hi4Byg&oe=62A05503)
+![App developer]
 
 # Hi there 👋, I'm Shahriar
 # App & Web developer
