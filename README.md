@@ -1,5 +1,3 @@
-![App developer]
-
 # Hi there 👋, I'm Shahriar
 # App & Web developer
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif">
