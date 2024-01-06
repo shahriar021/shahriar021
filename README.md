@@ -6,7 +6,7 @@
 
 ### Skills: <ul>Mobile App development / Web Development </ul>
 
-### 🌱 I’m currently learning Game developing 
+### 🌱 I’m currently working as a software engineer at Urban It Solution. 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about App and Web development 
 
