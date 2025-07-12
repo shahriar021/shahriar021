@@ -6,7 +6,7 @@
 
 ### Skills: <ul>Mobile App development / Web Development </ul>
 
-### 🌱 I’m currently working as a software engineer at Smart Software LTD. 
+### 🌱 I’m currently working as a software engineer at Spark Tech. 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about App and Web development 
 
