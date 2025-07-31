@@ -29,5 +29,3 @@
 
 ![Profile views](https://gpvc.arturio.dev/shahriar021)  
 
-![Contribution Breakdown](path/to/chart.png)
-
