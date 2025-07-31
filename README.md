@@ -28,3 +28,6 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shahriar021)  
 
 ![Profile views](https://gpvc.arturio.dev/shahriar021)  
+
+![Contribution Breakdown](path/to/chart.png)
+
